@@ -21,7 +21,7 @@ print(ls())
 #so use this command to show them too
 print(ls(all.names = TRUE))
 
-#print variable at workspace starting with 'za'
+#print variable at workspace which includes letters 'za'
 print(ls(pattern = 'za'))
 
 #delete variable from workspace, a is variable
